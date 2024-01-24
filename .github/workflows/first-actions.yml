@@ -1,0 +1,16 @@
+name: Sample project flow
+
+on:
+  workflow_dispatch:
+
+jobs:
+  my-job-1:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run one command
+        run: echo "Hello Serengia"
+      
+      - name: Run one command
+        run: | 
+             echo "Bye bye one!"
+             echo "Bye bye again!"
