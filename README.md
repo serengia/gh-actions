@@ -4,7 +4,7 @@ Github workflows automation
 - Github [Hosted Runners](https://docs.github.com/en/actions/using-github-hosted-runners/about-github-hosted-runners/about-github-hosted-runners#supported-runners-and-hardware-resources)
 - Github [actions events triggers](https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows)
 - Github [actions marketplace](https://github.com/marketplace?type=actions)
-- [Skip workflows.](https://docs.github.com/en/actions/managing-workflow-runs/skipping-workflow-runs) Can be done from the terminal eg `git push [skip workflows]`
+- [Skip workflows.](https://docs.github.com/en/actions/managing-workflow-runs/skipping-workflow-runs) Can be done from the terminal eg `git commit "Update file [skip workflows]"`
 
 ---
 Sample of automation yaml file
