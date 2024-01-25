@@ -1,9 +1,12 @@
-# gh-actions
-An example of a simple sample workflow
+# Github workflows - automations
+Github workflows automation
 ## Useful links
 - Github [Hosted Runners](https://docs.github.com/en/actions/using-github-hosted-runners/about-github-hosted-runners/about-github-hosted-runners#supported-runners-and-hardware-resources)
 - Github [actions events triggers](https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows)
 - Github [actions marketplace](https://github.com/marketplace?type=actions)
+
+---
+Sample of automation yaml file
 ```yml
 # This is a basic workflow to help you get started with Actions
 
